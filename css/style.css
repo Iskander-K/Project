@@ -236,7 +236,6 @@ body {
 .header__btn:active {
   position: relative;
   top: 1px;
-  color: #000;
 }
 /* == /HEADER__CONTENT/ == */
 
@@ -288,9 +287,7 @@ body {
   background: linear-gradient(129.54deg, #ff7b4e 15.57%, #ff584e 95.03%);
   border-radius: 27px;
 }
-.main__btn:hover {
-  color: #000000;
-}
+
 .main__btn:active {
   position: relative;
   top: 1px;
@@ -449,13 +446,10 @@ body {
   color: #fff;
   background: linear-gradient(129.54deg, #ff7b4e 15.57%, #ff584e 95.03%);
 }
-.cta__button:hover {
-  color: #000000;
-}
+
 .cta__button:active {
   position: relative;
   top: 1px;
-  color: #000;
 }
 /* == / CTA / == */
 
@@ -494,13 +488,10 @@ body {
   background: linear-gradient(129.54deg, #ff7b4e 15.57%, #ff584e 95.03%);
   color: #fff;
 }
-.subscribe-form__btn:hover {
-  color: #000000;
-}
+
 .subscribe-form__btn:active {
   position: relative;
   top: 1px;
-  color: #000;
 }
 .subscribe-form__input {
   font-size: 24px;
@@ -530,13 +521,10 @@ body {
   background: linear-gradient(129.54deg, #ff7b4e 15.57%, #ff584e 95.03%);
   border-radius: 27px;
 }
-.main__btn:hover {
-  color: #000000;
-}
+
 .main__btn:active {
   position: relative;
   top: 1px;
-  color: #000;
 }
 .btn--login {
   padding: 13px 44px;
